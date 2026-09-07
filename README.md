@@ -342,12 +342,14 @@ Confirms deliberate preparation for authenticated lateral movement against the W
 ```kql
 DeviceProcessEvents
 | where DeviceName == "npt-linux01"
-| where ProcessCommandLine has_any ("which","apt-get","pipx")
-| project Timestamp, FileName, ProcessCommandLine
+| where Timestamp between (datetime(2026-06-16 22:20:00) .. datetime(2026-06-16 22:30:00))
+| where FileName in ("dash","sudo","apt-get","python3.12","pipx","snap") or ProcessCommandLine has_any ("which","apt-get","pipx","command-not-found")
+| project Timestamp, FileName, ProcessCommandLine, InitiatingProcessFileName
+| order by Timestamp asc
 ```
 
 ### 🖼️ Screenshot
-<Insert screenshot>
+<img width="943" height="747" alt="Flag_07" src="https://github.com/user-attachments/assets/509ed149-3c07-4ac0-bc0a-17e244912d19" />
 
 </details>
 
