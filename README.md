@@ -127,8 +127,7 @@ DeviceLogonEvents
 ```
 
 ### 🖼️ Screenshot
-<<img width="928" height="556" alt="Flag_01" src="https://github.com/user-attachments/assets/02472f9f-eb5b-4845-b29b-710e69a5fbbc" />
->
+<img width="928" height="556" alt="Flag_01" src="https://github.com/user-attachments/assets/02472f9f-eb5b-4845-b29b-710e69a5fbbc" />
 
 </details>
 
@@ -165,8 +164,7 @@ DeviceLogonEvents
 ```
 
 ### 🖼️ Screenshot
-<<img width="759" height="1617" alt="Flag02" src="https://github.com/user-attachments/assets/ed7340b2-515c-447e-9918-ce09579ddb4e" />
->
+<img width="1516" height="722" alt="Flag_02" src="https://github.com/user-attachments/assets/40e85005-968e-450f-bdd9-05514160502b" />
 
 </details>
 
