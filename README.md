@@ -528,14 +528,13 @@ Reveals the complete beacon structure, including a static tag consistent across 
 DeviceProcessEvents
 | where DeviceName == "npt-ws01"
 | where ProcessCommandLine has "EncodedCommand"
-| project Timestamp, ProcessCommandLine
-```
-```bash
-echo "<base64>" | base64 -d | iconv -f UTF-16LE -t UTF-8
+| extend EncodedPart = extract(@"-EncodedCommand\s+(\S+)", 1, ProcessCommandLine)
+| extend DecodedBytes = base64_decodestring(EncodedPart)
+| project Timestamp, ProcessCommandLine, DecodedBytes
 ```
 
 ### 🖼️ Screenshot
-<Insert screenshot>
+<img width="1469" height="476" alt="Flag_12" src="https://github.com/user-attachments/assets/218ea43a-d732-43d9-8e78-6de9109f3f7a" />
 
 </details>
 
