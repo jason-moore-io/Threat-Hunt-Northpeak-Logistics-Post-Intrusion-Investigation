@@ -648,7 +648,7 @@ DeviceNetworkEvents
 ```
 
 ### 🖼️ Screenshot
-<Insert screenshot>
+<img width="1242" height="598" alt="Flag_15a" src="https://github.com/user-attachments/assets/0ad391f4-4457-47ff-abdb-30d99abd11ff" />
 
 </details>
 
