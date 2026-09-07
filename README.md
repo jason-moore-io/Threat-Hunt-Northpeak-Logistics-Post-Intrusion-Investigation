@@ -422,7 +422,7 @@ DeviceProcessEvents
 ```
 
 ### 🖼️ Screenshot
-<img width="1438" height="723" alt="Flag_09a" src="https://github.com/user-attachments/assets/702b7047-108d-47dd-844d-1027a05c9814" />
+<img width="1528" height="733" alt="Flag_09b" src="https://github.com/user-attachments/assets/d3617997-a116-4fd5-9680-3991ca0c3f4d" />
 
 </details>
 
