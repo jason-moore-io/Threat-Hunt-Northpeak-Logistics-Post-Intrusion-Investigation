@@ -607,7 +607,7 @@ DeviceProcessEvents
 ```
 
 ### 🖼️ Screenshot
-<img width="1557" height="748" alt="Flag_14" src="https://github.com/user-attachments/assets/91fc2533-8199-4f71-8107-a5855821e6fc" />
+<img width="1462" height="617" alt="Flag_14a" src="https://github.com/user-attachments/assets/f7fb3130-e4c0-40af-8d32-82406e8d8225" />
 
 </details>
 
