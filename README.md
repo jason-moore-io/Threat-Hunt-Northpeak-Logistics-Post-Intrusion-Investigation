@@ -415,13 +415,14 @@ Establishes a reliable, repeatable method for triaging noisy PowerShell telemetr
 ```kql
 DeviceProcessEvents
 | where DeviceName == "npt-ws01"
+| where Timestamp between (datetime(2026-06-16 20:00:00) .. datetime(2026-06-17 00:30:00))
 | where AccountName =~ "sancadmin"
 | project Timestamp, FileName, ProcessCommandLine, InitiatingProcessFileName, InitiatingProcessParentFileName
 | order by Timestamp asc
 ```
 
 ### 🖼️ Screenshot
-<Insert screenshot>
+<img width="900" height="720" alt="Flag_09" src="https://github.com/user-attachments/assets/24e50a55-3807-4283-ba73-07fe8ad531ea" />
 
 </details>
 
