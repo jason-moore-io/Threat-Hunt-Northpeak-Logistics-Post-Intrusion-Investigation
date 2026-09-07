@@ -165,7 +165,8 @@ DeviceLogonEvents
 ```
 
 ### 🖼️ Screenshot
-<Insert screenshot>
+<<img width="759" height="1617" alt="Flag02" src="https://github.com/user-attachments/assets/ed7340b2-515c-447e-9918-ce09579ddb4e" />
+>
 
 </details>
 
@@ -202,7 +203,8 @@ DeviceLogonEvents
 ```
 
 ### 🖼️ Screenshot
-<Insert screenshot>
+<<img width="1501" height="740" alt="Flag03" src="https://github.com/user-attachments/assets/52796945-1761-4969-92f7-afb105fa94b1" />
+>
 
 </details>
 
@@ -238,7 +240,8 @@ DeviceLogonEvents
 ```
 
 ### 🖼️ Screenshot
-<Insert screenshot>
+<<img width="1586" height="571" alt="Flag04" src="https://github.com/user-attachments/assets/46db82eb-df44-4f6f-bb6f-11af01b373c5" />
+>
 
 </details>
 
@@ -275,7 +278,7 @@ DeviceProcessEvents
 ```
 
 ### 🖼️ Screenshot
-<Insert screenshot>
+<img width="941" height="739" alt="Flag05" src="https://github.com/user-attachments/assets/3175303e-2484-49ca-819e-efd7f21a9d81" />
 
 </details>
 
