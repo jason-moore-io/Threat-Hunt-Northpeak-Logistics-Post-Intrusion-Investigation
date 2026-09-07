@@ -127,7 +127,8 @@ DeviceLogonEvents
 ```
 
 ### 🖼️ Screenshot
-</(https://file%2B.vscode-resource.vscode-cdn.net/Users/zetareticulia/Documents/CYBERRANGE/THREAT_HUNTS/TH_XX_Northpeak%20Descent/Screenshots/Flag01.png?version%3D1788804304947)>
+<<img width="792" height="1609" alt="Flag01" src="https://github.com/user-attachments/assets/2f6f14c8-a554-429a-9900-2278c705310f" />
+>
 
 </details>
 
