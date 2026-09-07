@@ -201,8 +201,7 @@ DeviceLogonEvents
 ```
 
 ### 🖼️ Screenshot
-<<img width="1501" height="740" alt="Flag03" src="https://github.com/user-attachments/assets/52796945-1761-4969-92f7-afb105fa94b1" />
->
+<img width="1485" height="715" alt="Flag_03" src="https://github.com/user-attachments/assets/28ed6424-3ec3-40b4-b90a-7c10e38ad99d" />
 
 </details>
 
