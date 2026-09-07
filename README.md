@@ -459,7 +459,7 @@ DeviceRegistryEvents
 ```
 
 ### 🖼️ Screenshot
-<Insert screenshot>
+<img width="1544" height="706" alt="Flag_10a" src="https://github.com/user-attachments/assets/8b6d9189-ea47-4e02-b75c-b3b7aee553a6" />
 
 </details>
 
